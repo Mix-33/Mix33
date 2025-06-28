@@ -31,8 +31,8 @@ ___
 ![KOP](https://img.shields.io/badge/-KOP-070404?style=for-the-badge)
 ![S7-GRAPH](https://img.shields.io/badge/-S7--GRAPH-070404?style=for-the-badge)
 ![RAPID](https://img.shields.io/badge/-RAPID-070404?style=for-the-badge)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws)
-![Arch Linux](https://img.shields.io/badge/-Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux)
+![AWS](https://img.shields.io/badge/-AWS-070404?style=for-the-badge)
+![Arch Linux](https://img.shields.io/badge/-Arch_Linux-070404?style=for-the-badge)
 
 </div>
 
