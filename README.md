@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hello! I'm Mix 🐉 </h1>
 
-![Header](https://github.com/Mix-33/Mix33/blob/main/assets/logo2.png)
+![Header](https://github.com/Mixlorian/Mixlorian/blob/main/assets/logo3.png)
 
 
 ## About me
