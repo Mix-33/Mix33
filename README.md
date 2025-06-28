@@ -1,5 +1,7 @@
 <h1 align="center">👋 Hello! I'm BorjaPascual33 </h1>
 
+![Header](https://github.com/BorjaPascual33/BorjaPascual33/blob/main/assets/logo1.png)
+
 <!--
 **BorjaPascual33/BorjaPascual33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
