@@ -19,8 +19,8 @@ ___
 ### **Languages and Tools:**
 <div align="center">
 
-![Python](https://img.shields.io/badge/-Python-070404?style=for-the-badge&logo=python&logoColor=%233776AB&logoSize=auto)
 ![C++](https://img.shields.io/badge/-C++-070404?style=for-the-badge&logo=c%2B%2B&logoColor=%2300599C&logoSize=auto)
+![Python](https://img.shields.io/badge/-Python-070404?style=for-the-badge&logo=python&logoColor=%233776AB&logoSize=auto)
 ![C](https://img.shields.io/badge/-C-070404?style=for-the-badge&logo=c&logoColor=%23A8B9CC&logoSize=auto)
 
 ![ABB](https://img.shields.io/badge/-RAPID-070404?style=for-the-badge&logo=abb&logoColor=%23FF000F&logoSize=auto)
