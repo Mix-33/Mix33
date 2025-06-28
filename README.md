@@ -19,21 +19,27 @@ ___
 ### **Languages and Tools:**
 <div align="center">
 
-![Python](https://img.shields.io/badge/-Python-070404?style=for-the-badge&logo=python)
-![C](https://img.shields.io/badge/-C-070404?style=for-the-badge&logo=c)
-![C++](https://img.shields.io/badge/-C++-070404?style=for-the-badge&logo=c%2B%2B)
-![S7-SCL](https://img.shields.io/badge/-S7--SCL-070404?style=for-the-badge)
-![FUP](https://img.shields.io/badge/-FUP-070404?style=for-the-badge)
-![KRL](https://img.shields.io/badge/-KRL-070404?style=for-the-badge)
-![ARDUINO](https://img.shields.io/badge/-ARDUINO-070404?style=for-the-badge&logo=arduino)
-![Bash](https://img.shields.io/badge/-Bash-070404?style=for-the-badge&logo=gnu-bash)
+![Python](https://img.shields.io/badge/-Python-070404?style=for-the-badge&logo=python&logoColor=%233776AB&logoSize=auto)
+![C++](https://img.shields.io/badge/-C++-070404?style=for-the-badge&logo=c%2B%2B&logoColor=%2300599C&logoSize=auto)
+![C](https://img.shields.io/badge/-C-070404?style=for-the-badge&logo=c&logoColor=%23A8B9CC&logoSize=auto)
 
-![KOP](https://img.shields.io/badge/-KOP-070404?style=for-the-badge)
-![S7-GRAPH](https://img.shields.io/badge/-S7--GRAPH-070404?style=for-the-badge)
-![RAPID](https://img.shields.io/badge/-RAPID-070404?style=for-the-badge)
+![ABB](https://img.shields.io/badge/-RAPID-070404?style=for-the-badge&logo=abb&logoColor=%23FF000F&logoSize=auto)
+![AWL](https://img.shields.io/badge/-awl-070404?style=for-the-badge&logo=siemens&logoColor=%23009999&logoSize=auto)
+
+![ARDUINO](https://img.shields.io/badge/-ARDUINO-070404?style=for-the-badge&logo=arduino&logoColor=%2300878F&logoSize=auto)
+![ROS](https://img.shields.io/badge/-ROS-070404?style=for-the-badge&logo=ros)
+![Bash](https://img.shields.io/badge/-Bash-070404?style=for-the-badge&logo=gnu-bash&logoColor=%234EAA25&logoSize=auto)
+
 ![AWS](https://img.shields.io/badge/-AWS-070404?style=for-the-badge&logo=amazon-aws)
 ![Arch Linux](https://img.shields.io/badge/-Arch_Linux-070404?style=for-the-badge&logo=arch-linux)
 
-</div>
+
 
 ---
+
+[![HTML](https://img.shields.io/badge/-LINKEDIN-070404?style=for-the-badge&logoSize=auto)](https://www.linkedin.com/in/borja-pascual)
+
+</div>
+
+
+
