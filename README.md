@@ -11,8 +11,8 @@ I’m passionate about technology, continuous improvement, and solving technical
 
 ___
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mixlorian&theme=monokai&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mixlorian&theme=monokai&layout=compact)](https://github.com/Mixlorian/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mixlorian&theme=ocean_dark&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mixlorian&theme=ocean_dark&layout=compact)](https://github.com/Mixlorian/github-readme-stats)
 
 ---
 
