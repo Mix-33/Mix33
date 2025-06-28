@@ -26,6 +26,14 @@ ___
 ![HTML](https://img.shields.io/badge/-FUP-070404?style=for-the-badge)
 ![HTML](https://img.shields.io/badge/-KRL-070404?style=for-the-badge)
 
+![Python](https://img.shields.io/badge/-Python-070404?style=for-the-badge&logo=python)
+![C](https://img.shields.io/badge/-C-070404?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/-C++-070404?style=for-the-badge&logo=c%2B%2B)
+![S7-SCL](https://img.shields.io/badge/-S7--SCL-070404?style=for-the-badge)
+![FUP](https://img.shields.io/badge/-FUP-070404?style=for-the-badge)
+![KRL](https://img.shields.io/badge/-KRL-070404?style=for-the-badge)
+![ARDUINO](https://img.shields.io/badge/-ARDUINO-070404?style=for-the-badge&logo=arduino)
+
 ![HTML](https://img.shields.io/badge/-ARDUINO-070404?style=for-the-badge&logo=arduino)
 ![HTML](https://img.shields.io/badge/-KOP-070404?style=for-the-badge)
 ![HTML](https://img.shields.io/badge/-S7--GRAPH-070404?style=for-the-badge)
