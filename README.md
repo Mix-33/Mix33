@@ -19,13 +19,6 @@ ___
 ### **Languages and Tools:**
 <div align="center">
 
-![HTML](https://img.shields.io/badge/-Python-070404?style=for-the-badge&logo=python)
-![HTML](https://img.shields.io/badge/-C-070404?style=for-the-badge&logo=c)
-![HTML](https://img.shields.io/badge/-C++-070404?style=for-the-badge&logo=c%2B%2B)
-![HTML](https://img.shields.io/badge/-S7--SCL-070404?style=for-the-badge)
-![HTML](https://img.shields.io/badge/-FUP-070404?style=for-the-badge)
-![HTML](https://img.shields.io/badge/-KRL-070404?style=for-the-badge)
-
 ![Python](https://img.shields.io/badge/-Python-070404?style=for-the-badge&logo=python)
 ![C](https://img.shields.io/badge/-C-070404?style=for-the-badge&logo=c)
 ![C++](https://img.shields.io/badge/-C++-070404?style=for-the-badge&logo=c%2B%2B)
@@ -33,11 +26,13 @@ ___
 ![FUP](https://img.shields.io/badge/-FUP-070404?style=for-the-badge)
 ![KRL](https://img.shields.io/badge/-KRL-070404?style=for-the-badge)
 ![ARDUINO](https://img.shields.io/badge/-ARDUINO-070404?style=for-the-badge&logo=arduino)
+![Bash](https://img.shields.io/badge/-Bash-070404?style=for-the-badge&logo=gnu-bash)
 
-![HTML](https://img.shields.io/badge/-ARDUINO-070404?style=for-the-badge&logo=arduino)
-![HTML](https://img.shields.io/badge/-KOP-070404?style=for-the-badge)
-![HTML](https://img.shields.io/badge/-S7--GRAPH-070404?style=for-the-badge)
-![HTML](https://img.shields.io/badge/-RAPID-070404?style=for-the-badge)
+![KOP](https://img.shields.io/badge/-KOP-070404?style=for-the-badge)
+![S7-GRAPH](https://img.shields.io/badge/-S7--GRAPH-070404?style=for-the-badge)
+![RAPID](https://img.shields.io/badge/-RAPID-070404?style=for-the-badge)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws)
+![Arch Linux](https://img.shields.io/badge/-Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux)
 
 </div>
 
