@@ -11,7 +11,7 @@ I’m passionate about technology, continuous improvement, and solving technical
 
 ___
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=shadow_red&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=monokai&show_icons=true)
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BorjaPascual33&layout=donut-vertical)](https://github.com/BorjaPascual33/github-readme-stats) -->
 
 ---
