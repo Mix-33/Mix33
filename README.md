@@ -11,8 +11,8 @@ I’m passionate about technology, continuous improvement, and solving technical
 
 ___
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BorjaPascual33&theme=monokai&show_icons=true)
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BorjaPascual33&layout=donut-vertical)](https://github.com/BorjaPascual33/github-readme-stats) -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mixlorian&theme=monokai&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mixlorian&layout=donut-vertical&theme=monokai)](https://github.com/Mixlorian/github-readme-stats) 
 
 ---
 
