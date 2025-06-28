@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello! I'm BorjaPascual33 </h1>
+<h1 align="center">👋 Hello! I'm Mix </h1>
 
 ![Header](https://github.com/BorjaPascual33/BorjaPascual33/blob/main/assets/logo1.png)
 
